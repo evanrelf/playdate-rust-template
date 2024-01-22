@@ -1,5 +1,5 @@
 {
-  description = "playdate";
+  description = "playdate-rust-template";
 
   inputs = {
     crane = {
